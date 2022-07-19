@@ -23,7 +23,12 @@ def logger(func):
     return wrapper
 
 
+#  Написать декоратор из п.1, но с параметром – путь к логам.
 def param_logger(path):
+    """
+    Creating parameterized logger in accordance to 2nd task
+    """
+
     def _param_logger(func):
         @functools.wraps(func)
         def wrapper(*args, **kwargs):
