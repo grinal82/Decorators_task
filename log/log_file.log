@@ -1,0 +1,20 @@
+function:'multiplier' with parameters: [2, 6, 45, 32, 43] was called at: 2022-07-19 22:22:43.727186 and returned [4, 36, 2025, 1024, 1849]
+function:'multiplier' with parameters: [2, 5, 4, 7, 4] was called at: 2022-07-19 22:22:43.728186 and returned [4, 25, 16, 49, 16]
+function:'flat_generator' with parameters: [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None, [1, 2, 3, 4, 5, [True, None, False]]]] was called at: 2022-07-19 23:34:26.870894 and returned <generator object flat_generator at 0x000001E660542F10>
+function:'flat_generator' with parameters: ['a', 'b', 'c'] was called at: 2022-07-19 23:34:26.875891 and returned <generator object flat_generator at 0x000001E660542F80>
+function:'flat_generator' with parameters: ['d', 'e', 'f', 'h', False] was called at: 2022-07-19 23:34:26.877891 and returned <generator object flat_generator at 0x000001E660542F80>
+function:'flat_generator' with parameters: [1, 2, None, [1, 2, 3, 4, 5, [True, None, False]]] was called at: 2022-07-19 23:34:26.879894 and returned <generator object flat_generator at 0x000001E660542F80>
+function:'flat_generator' with parameters: [1, 2, 3, 4, 5, [True, None, False]] was called at: 2022-07-19 23:34:26.880886 and returned <generator object flat_generator at 0x000001E660543370>
+function:'flat_generator' with parameters: [True, None, False] was called at: 2022-07-19 23:34:26.882886 and returned <generator object flat_generator at 0x000001E660542EA0>
+function:'flat_generator' with parameters: [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None, [1, 2, 3, 4, 5, [True, None, False]]]] was called at: 2022-07-19 23:47:00.888558 and returned <generator object flat_generator at 0x0000023A39FD2570>
+function:'flat_generator' with parameters: ['a', 'b', 'c'] was called at: 2022-07-19 23:47:00.890558 and returned <generator object flat_generator at 0x0000023A39FD2730>
+function:'flat_generator' with parameters: ['d', 'e', 'f', 'h', False] was called at: 2022-07-19 23:47:00.891557 and returned <generator object flat_generator at 0x0000023A39FD2730>
+function:'flat_generator' with parameters: [1, 2, None, [1, 2, 3, 4, 5, [True, None, False]]] was called at: 2022-07-19 23:47:00.892556 and returned <generator object flat_generator at 0x0000023A39FD2730>
+function:'flat_generator' with parameters: [1, 2, 3, 4, 5, [True, None, False]] was called at: 2022-07-19 23:47:00.893556 and returned <generator object flat_generator at 0x0000023A39FD2B90>
+function:'flat_generator' with parameters: [True, None, False] was called at: 2022-07-19 23:47:00.895552 and returned <generator object flat_generator at 0x0000023A39FD2650>
+function:'flat_generator' with parameters: [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None, [1, 2, 3, 4, 5, [True, None, False]]]] was called at: 2022-07-19 23:48:52.209473 and returned <generator object flat_generator at 0x0000017CD3772730>
+function:'flat_generator' with parameters: ['a', 'b', 'c'] was called at: 2022-07-19 23:48:52.211473 and returned <generator object flat_generator at 0x0000017CD3772810>
+function:'flat_generator' with parameters: ['d', 'e', 'f', 'h', False] was called at: 2022-07-19 23:48:52.212472 and returned <generator object flat_generator at 0x0000017CD3772810>
+function:'flat_generator' with parameters: [1, 2, None, [1, 2, 3, 4, 5, [True, None, False]]] was called at: 2022-07-19 23:48:52.214471 and returned <generator object flat_generator at 0x0000017CD3772810>
+function:'flat_generator' with parameters: [1, 2, 3, 4, 5, [True, None, False]] was called at: 2022-07-19 23:48:52.215471 and returned <generator object flat_generator at 0x0000017CD3772C00>
+function:'flat_generator' with parameters: [True, None, False] was called at: 2022-07-19 23:48:52.217470 and returned <generator object flat_generator at 0x0000017CD3772570>

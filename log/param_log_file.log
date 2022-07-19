@@ -1,0 +1,14 @@
+function:'multiplier' with parameters: [2, 6, 45, 32, 43] was called at: 2022-07-19 23:29:13.596802 and returned [4, 36, 2025, 1024, 1849]
+function:'multiplier' with parameters: [2, 5, 4, 7, 4] was called at: 2022-07-19 23:29:13.597801 and returned [4, 25, 16, 49, 16]
+function:'multiplier' with parameters: [2, 6, 45, 32, 43] was called at: 2022-07-19 23:34:26.866894 and returned [4, 36, 2025, 1024, 1849]
+function:'multiplier' with parameters: [2, 5, 4, 7, 4] was called at: 2022-07-19 23:34:26.867894 and returned [4, 25, 16, 49, 16]
+function:'multiplier' with parameters: [2, 6, 45, 32, 43] was called at: 2022-07-19 23:47:00.878565 and returned [4, 36, 2025, 1024, 1849]
+function:'multiplier' with parameters: [2, 5, 4, 7, 4] was called at: 2022-07-19 23:47:00.879565 and returned [4, 25, 16, 49, 16]
+function:'flat_generator' with parameters: <__main__.Flat_generator object at 0x0000023A3A023640>, [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]] was called at: 2022-07-19 23:47:00.884560 and returned ['a', 'b', 'c', 'd', 'e', 'f', 'h', False, 1, 2, None]
+function:'multiplier' with parameters: [2, 6, 45, 32, 43] was called at: 2022-07-19 23:48:52.194483 and returned [4, 36, 2025, 1024, 1849]
+function:'multiplier' with parameters: [2, 5, 4, 7, 4] was called at: 2022-07-19 23:48:52.195483 and returned [4, 25, 16, 49, 16]
+function:'__str__' with parameters: <__main__.Flat_iterator object at 0x0000017CD37C2FB0> was called at: 2022-07-19 23:48:52.197481 and returned 'a\nb\nc'
+function:'__str__' with parameters: <__main__.Flat_iterator object at 0x0000017CD37C2FB0> was called at: 2022-07-19 23:48:52.199481 and returned 'd\ne\nf\nh\nFalse'
+function:'__str__' with parameters: <__main__.Flat_iterator object at 0x0000017CD37C2FB0> was called at: 2022-07-19 23:48:52.201479 and returned '1\n2\nNone'
+function:'chain_list' with parameters: [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]] was called at: 2022-07-19 23:48:52.204476 and returned None
+function:'flat_generator' with parameters: <__main__.Flat_generator object at 0x0000017CD37C45B0>, [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]] was called at: 2022-07-19 23:48:52.206475 and returned ['a', 'b', 'c', 'd', 'e', 'f', 'h', False, 1, 2, None]
